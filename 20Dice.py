@@ -1,4 +1,4 @@
 import random
 
-roll:int=random.randint(0,21)
+roll:int=random.randint(1,20)
 print(roll)
